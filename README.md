@@ -1,0 +1,1 @@
+Voici quelques petits bouts de code du projet Patent.
